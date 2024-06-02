@@ -1,0 +1,42 @@
+[
+    {
+      "name": "David Salvatore Calaiò",
+      "image": "https://media.licdn.com/dms/image/D4E03AQEYmQk9aaHomg/profile-displayphoto-shrink_200_200/0/1691138886870?e=1698278400&v=beta&t=w7pGUPq12xwbpupabMhUjBwPTR1OZ6SVSsEPnjwuDRs",
+      "job": "Jr. Full-Stack Web Developer",
+      "link": "https://github.com/DavidC1103",
+      "link2": "https://www.linkedin.com/in/david-salvatore-calai%C3%B3-698929234/",
+      "email": "davidcalaio.dev@gmail.com"
+    },
+    {
+      "name": "Marco Spezzaferro",
+      "image": "https://media.licdn.com/dms/image/D4D03AQHKMdleN-NRDQ/profile-displayphoto-shrink_800_800/0/1688477317015?e=1696464000&v=beta&t=R2YMa1F1FcM3L0Hg8fPWiMDkrFDlsU7l2cryb1CAhVQ",
+      "job": "Jr. Full-Stack Web Developer",
+      "link": "https://github.com/mcspe",
+      "link2": "https://www.linkedin.com/in/mcspezzaferro/",
+      "email": "mcspezzaferro@gmail.com"
+    },
+    {
+      "name": "Raffaele Catalano",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFJL9UcVcjQMw/profile-displayphoto-shrink_800_800/0/1690892603906?e=1696464000&v=beta&t=KN5j-tdED-Jq9emx1_Hh2aKQyDALoaNozOx3PeDA8No",
+      "job": "Jr. Full-Stack Web Developer",
+      "link": "https://github.com/raffaele-catalano",
+      "link2": "https://www.linkedin.com/in/raffaele-catalano/",
+      "email": "r.catalano.dev@gmail.com"
+    },
+    {
+      "name": "Marco Cancelliere",
+      "image": "https://media.licdn.com/dms/image/D5603AQHhUGI-PeP-wA/profile-displayphoto-shrink_800_800/0/1688492885555?e=1696464000&v=beta&t=z6p6ehjOeN_AykAhClEq37nkDgXnxOtEI-s--QKpp0A",
+      "job": "Jr. Full-Stack Web Developer",
+      "link": "https://github.com/marcocnc",
+      "link2": "https://www.linkedin.com/in/marco-cancelliere-b439a4281/",
+      "email": "marcocancelliere56@gmail.com"
+    },
+    {
+      "name": "Mirko Di Franco",
+      "image": "https://media.licdn.com/dms/image/D4E03AQE5S3HGe5lfwg/profile-displayphoto-shrink_800_800/0/1688578416708?e=1696464000&v=beta&t=Ku-jGnQYsQJ6hD3HiBbqL87BQh46l0CJVz5_mqsYMZ0",
+      "job": "Jr. Full-Stack Web Developer",
+      "link": "https://github.com/mirkettinho",
+      "link2": "https://www.linkedin.com/in/mirko-di-franco/",
+      "email": "mirkodifranco.dev@gmail.com"
+    }
+  ]

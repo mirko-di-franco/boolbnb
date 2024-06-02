@@ -1,0 +1,65 @@
+@import '~bootstrap/scss/bootstrap';
+
+
+
+@import "./partials/login-register";
+@import "./partials/header";
+@import "./partials/aside";
+@import "./partials/home";
+@import "./partials/dashboard";
+@import "./partials/index";
+@import "./partials/create";
+@import "./partials/show";
+@import "./partials/sponsorships";
+@import "./partials/footer";
+@import "./partials/form";
+
+
+
+
+
+// GENERAL
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+main{
+  overflow-y: auto;
+  width: 100vw;
+  background-color: #f8f9fb;;
+}
+
+.main-wrapper{
+  height: 100vh;
+}
+// MEDIA X-SMALL
+@media (min-width: 0 ) and (max-width: 575px){
+
+  .main-wrapper{
+    height: calc(100vh - 60px);
+  }
+}
+
+// SCROLLBAR CUSTOMIZATION
+::-webkit-scrollbar {
+  background-color: peachpuff;
+  width: 12px;
+  height: 50%;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #808080;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #1889ff;
+}
+::-webkit-scrollbar-thumb:active {
+  background-color:  #1889ff;
+}
+
+::-webkit-scrollbar-track{
+	border: 3.5px solid white;
+	background-color: #b2bec3;
+}

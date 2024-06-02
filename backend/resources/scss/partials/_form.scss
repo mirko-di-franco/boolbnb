@@ -1,0 +1,39 @@
+.form-boolbnb{
+  padding: 50px 30px 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+  position: relative;
+  .form-control:focus{
+    box-shadow:  0 0 0 0;
+    border-color: navy;
+  }
+}
+
+.input-boolbnb{
+  margin: 10px 0;
+  position: relative;
+}
+
+
+
+.input-boolbnb input{
+  background: transparent;
+  outline: 0;
+  border-bottom: 1px solid #999;
+  color: #333;
+  font-size: 16px;
+}
+
+
+.input-boolbnb span{
+  position: absolute;
+  bottom: 6px;
+  right: 20px;
+  font-size: 18px;
+  color: $danger;
+  i{
+    color: seagreen;
+  }
+}
+
+
